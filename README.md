@@ -1,4 +1,4 @@
--@mniwheat vurrently an MIT student, but we'll see how long that will last. 
+@mniwheat currently an MIT student, but we'll see how long that will last. 
 
 
 <!---
